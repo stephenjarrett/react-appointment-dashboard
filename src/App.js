@@ -6,7 +6,7 @@ class App extends Component {
 	render() {
 		return (
 			<div className="App">
-				<h1>React Appointment Scheduler</h1>
+				<h1>React-Redux Appointment Scheduler</h1>
 				<AppointmentDashboard></AppointmentDashboard>
 			</div>
 		);
