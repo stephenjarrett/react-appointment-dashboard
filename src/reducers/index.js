@@ -50,8 +50,8 @@ const getInitialState = () => {
 const initialState = {
   appointmentData: [{
       time: "9:00am-10:00am",
-      name: "Stephen Jarrett",
-      phone: 4235058213,
+      name: "John Doe",
+      phone: 5554035521,
       available: false
     },
     {
