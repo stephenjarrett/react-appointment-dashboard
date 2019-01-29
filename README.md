@@ -1,3 +1,9 @@
+Basic appointment scheduling dashboard project built with react-redux. Git clone the repo, npm install for dependencies and npm start to run. 
+
+Simply click on a timeslot to add a person and their phone number to the appointment slot. If you have a number you must also provide a phone number. Back out the name and phone number in order to clear a time slot. Time slots that are already booked appear in red on the dashboard and give also show the name and number of the person with that appointment slot. The app retrieves session data in local storage.
+
+Click [here](react-redux-appointment-scheduling-sjarrett) for a live demo site.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
